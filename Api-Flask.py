@@ -17,6 +17,7 @@ api.add_resource(GroupCourseController.List, '/schedule', endpoint='schedule')
 
 
 
+
 # api.add_resource(ChoiceCourseController, '/choicecourses', endpoint='choice_course_list')
 # api.add_resource(ChoiceCourseController, '/choicecour')
 # api.add_resource(ChoiceController, '/sas')
